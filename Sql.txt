@@ -1,0 +1,3 @@
+Select * from suppplier
+Select * from company_orders details
+Select * from all costumers in Mexico
